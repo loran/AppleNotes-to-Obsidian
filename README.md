@@ -66,7 +66,7 @@ Images are referenced using Obsidian's wiki-link syntax: `![[_attachments/Note T
 
 ## Requirements
 
-- **macOS** (tested on Sonoma / Sequoia)
+- **macOS** (tested on Sonoma / Sequoia / Tahoe)
 - **Notes.app** with notes you want to export
 - **pandoc** — `brew install pandoc`
 - **python3** — included with macOS
